@@ -1,0 +1,40 @@
+.navbar{
+  background-color: #404040;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 20px;
+}
+img{
+  position: absolute;
+  margin: 0 0 0 13;
+}
+h4{
+  background-color: #feb236;
+}
+.table{
+  background-color: #e6e2d3;
+}
+.list{
+  background-color: #d6cbd3;
+}
+.champion{
+  background-color: #b5e7a0;
+  padding-bottom: 200px;
+}
+.container{
+  position: absolute;
+  margin-right: 745px;
+}
+#feliks{
+  position: absolute;
+  margin-left: 520px;
+  margin-top: 90px;
+}
+.contact{
+  position: absolute;
+  margin-top: 780px;
+  margin-left: 600px;
+  margin-bottom: 40px;
+  padding: 50 50 50 50;
+  background-color: #eca1a6;
+}
